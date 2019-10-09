@@ -1,4 +1,4 @@
-# Employees-Database-Manipulation
+# Employees-Database-Manipulation-SQL
 
 <p> SQL Database Manipulation using the "Employees" database found on GitHub</p>
 
